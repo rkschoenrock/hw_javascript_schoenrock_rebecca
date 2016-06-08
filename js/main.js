@@ -23,7 +23,7 @@ var georgeHWBush = {
 	firstName: 'George',
 	lastName: 'Bush',
 	termLength: '4 years',
-	party: 'Democrat',
+	party: 'Repiblican',
 	yearsOfPresidency: '1989-1993'
 };
 var ronaldReagan = {
