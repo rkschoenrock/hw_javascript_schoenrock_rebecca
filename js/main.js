@@ -21,8 +21,8 @@ function inception(display, favMovie) {
 	display(favMovie);
 }
 
-function favMovie(title) {
+function favoriteMovie(title) {
 	console.log(title + ' is a fantastic movie.');
 }
 
-inception(favMovie, 'Castaway');
+inception(favoriteMovie, 'Castaway');
