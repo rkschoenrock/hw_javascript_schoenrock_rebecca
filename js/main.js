@@ -20,8 +20,9 @@ numba('university');
 function inception(display, favMovie) {
 	display(favMovie);
 }
-var movie = 'Castaway';
-favMovie(movie);
-function favMovie(title) {
+
+function favoriteMovie(title) {
 	console.log(title + ' is a fantastic movie.');
 }
+
+inception(favoriteMovie, 'Castaway');
