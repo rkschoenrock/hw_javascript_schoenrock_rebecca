@@ -3,3 +3,5 @@ var iceCream = [
 	'peanut butter',
 	'mint chocolate chip'
 ];
+
+iceCream.push('rocky road');
